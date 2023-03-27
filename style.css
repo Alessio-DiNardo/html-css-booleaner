@@ -1,9 +1,14 @@
 
+.logo{
+    width: 10%;
+    margin-top: 7%;
+}
 
-.Principale{
-    background-color: rgb(19, 100, 221);
+header{
+    background-image: url(img/pattern.png);
+    background-color: rgb(26, 88, 146);
     background-repeat: repeat-x;
-    background-image: "./img/pattern.png";
+    height: 180px;
 }
 
 span{
@@ -23,15 +28,26 @@ h4{
     color:gray;
 }
 
-h5{
-    margin: 0px;
-    background-image: url('C:\Users\UTENTE\Desktop\APPUNTI\Repository\html-css-booleaner\img\monitor.jpgesempio1.jpg');
-    background-repeat: no-repeat;
+.card{
+    padding-bottom: 3em;
+    background-image: url("img/monitor.jpg");
     color: #FFFFFF;
     font-size: 140%;
     font-weight: normal;
-    line-height: 260px;
-    text-align: center;
-    width: 240px;
-    height: 150px;
+    line-height: 30px;
+    text-align: left;
+    width: 208px;
+    height: 160px;
 }
+
+.cardone{
+    padding-bottom: 3em;
+    background-image: url("img/graph.jpg");
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 30px;
+    text-align: left;
+    width: 208px;
+    height: 160px;
+}    
