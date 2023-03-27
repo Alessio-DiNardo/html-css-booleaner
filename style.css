@@ -16,12 +16,13 @@ span{
 }
 
 thead{
-    background-color: rgb(8, 245, 245);
+    background-color: rgb(26, 168, 211);
     color: white;
+    height: 4%;
 }
 
 .azzurro{
-    background-color: rgb(26, 151, 201);
+    background-color: rgb(154, 218, 243);
 }
 
 h4{
