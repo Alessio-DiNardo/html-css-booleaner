@@ -1,5 +1,24 @@
+
+
 .Principale{
     background-color: rgb(19, 100, 221);
     background-repeat: repeat-x;
     background-image: "./img/pattern.png";
+}
+
+span{
+    background-color: yellow;
+}
+
+thead{
+    background-color: rgb(8, 245, 245);
+    color: white;
+}
+
+.azzurro{
+    background-color: rgb(26, 151, 201);
+}
+
+h4{
+    color:gray;
 }
